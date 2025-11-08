@@ -680,6 +680,14 @@ a {
   max-width: none;
   height: 13rem;
 }
+.cid-v1UryjWl2D img.ax-logo-toggler {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  max-width: none;
+  height: 6.5rem !important;
+  z-index: 1;
+}
 .cid-v1UryjWl2D .social-row {
   width: 100%;
   -webkit-justify-content: center;
@@ -742,7 +750,7 @@ a {
   margin: 0 !important;
 }
 .cid-v1UryjWl2D .navbar {
-  min-height: 77px;
+  min-height: 72px;
   -webkit-justify-content: center;
   justify-content: center;
   -webkit-flex-direction: column;
@@ -972,10 +980,13 @@ a {
   height: 20px;
   cursor: pointer;
   transition: all .2s;
-  position: relative;
+  position: fixed;
   margin: 1rem;
   -webkit-align-self: center;
   align-self: center;
+  top: 6px;
+  right: 6px;
+  z-index: 1;
 }
 .cid-v1UryjWl2D button.navbar-toggler .hamburger span {
   position: absolute;
@@ -2993,6 +3004,14 @@ a {
   max-width: none;
   height: 13rem;
 }
+.cid-v1VtgOtvaP img.ax-logo-toggler {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  max-width: none;
+  height: 6.5rem !important;
+  z-index: 1;
+}
 .cid-v1VtgOtvaP .social-row {
   width: 100%;
   -webkit-justify-content: center;
@@ -3055,7 +3074,7 @@ a {
   margin: 0 !important;
 }
 .cid-v1VtgOtvaP .navbar {
-  min-height: 77px;
+  min-height: 72px;
   -webkit-justify-content: center;
   justify-content: center;
   -webkit-flex-direction: column;
@@ -3285,10 +3304,13 @@ a {
   height: 20px;
   cursor: pointer;
   transition: all .2s;
-  position: relative;
+  position: fixed;
   margin: 1rem;
   -webkit-align-self: center;
   align-self: center;
+  top: 6px;
+  right: 6px;
+  z-index: 1;
 }
 .cid-v1VtgOtvaP button.navbar-toggler .hamburger span {
   position: absolute;
