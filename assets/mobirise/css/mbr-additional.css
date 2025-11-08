@@ -851,6 +851,9 @@ a {
   flex-basis: auto;
 }
 @media (max-width: 991px) {
+  .cid-v1UryjWl2D .navbar .soc-google-maps {
+    display: none;
+  }
   .cid-v1UryjWl2D .navbar .navbar-collapse.show,
   .cid-v1UryjWl2D .navbar .navbar-collapse.collapsing {
     transition: all .3s linear;
@@ -3184,6 +3187,9 @@ a {
   flex-basis: auto;
 }
 @media (max-width: 991px) {
+  .cid-v1VtgOtvaP .navbar .soc-google-maps {
+    display: none;
+  }
   .cid-v1VtgOtvaP .navbar .navbar-collapse.show,
   .cid-v1VtgOtvaP .navbar .navbar-collapse.collapsing {
     transition: all .3s linear;
