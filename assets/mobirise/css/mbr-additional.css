@@ -2694,6 +2694,67 @@ a {
 .cid-rJ1POcvqOH .mbr-section-btn {
   color: #000000;
 }
+.cid-v1Wrcc4N3U {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/bg-club-cedro-min-1000x1228.webp");
+}
+@media (max-width: 767px) {
+  .cid-v1Wrcc4N3U .content {
+    text-align: center;
+  }
+  .cid-v1Wrcc4N3U .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+.cid-v1Wrcc4N3U .google-map {
+  height: 35rem;
+  width: 100%;
+  position: relative;
+  box-shadow: 2.5px 4.3px 29px 0 rgba(0, 0, 0, 0.18);
+}
+.cid-v1Wrcc4N3U .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-v1Wrcc4N3U .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-v1Wrcc4N3U .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-v1Wrcc4N3U .google-map[data-state='loading'] [data-state-details] {
+  display: none;
+}
+@media (max-width: 992px) {
+  .cid-v1Wrcc4N3U .google-map {
+    width: 100%;
+  }
+}
+.cid-v1Wrcc4N3U H2 {
+  color: #f7f4f2;
+}
+.cid-v1Wrcc4N3U H3 {
+  color: #f7f4f2;
+}
+.cid-v1Wrcc4N3U .mbr-text,
+.cid-v1Wrcc4N3U .mbr-section-btn {
+  color: #f7f4f2;
+  text-align: justify;
+}
+.cid-v1Wrcc4N3U H4 {
+  color: #ffcc00;
+  text-align: right;
+}
 .cid-v1VGHj8ZGi {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -2817,18 +2878,6 @@ a {
   color: #000000;
   text-align: center;
 }
-#map-sedes-custom-html {
-  /* Type valid CSS here */
-}
-#map-sedes-custom-html div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#map-sedes-custom-html p {
-  font-size: 60px;
-  color: #777;
-}
 .cid-v1USvHA8zd {
   padding-top: 3rem;
   padding-bottom: 0rem;
@@ -2930,47 +2979,6 @@ a {
 .cid-v1USvHA8zd .copy-wrapper,
 .cid-v1USvHA8zd .social-wrapper {
   color: #ffffff;
-}
-.cid-v1VG09rKYo {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #eeeef7;
-}
-.cid-v1VG09rKYo .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-v1VG09rKYo .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-v1VG09rKYo .title-wrapper .mbr-section-title {
-  margin-bottom: 32px;
-}
-.cid-v1VG09rKYo .items-wrap {
-  justify-content: center;
-}
-.cid-v1VG09rKYo .item {
-  margin-bottom: 32px;
-}
-.cid-v1VG09rKYo .item .item-wrapper .card-box .item-title {
-  margin-bottom: 10px;
-}
-.cid-v1VG09rKYo .item .item-wrapper .card-box .item-text {
-  margin-bottom: 0;
-}
-.cid-v1VG09rKYo .mbr-section-title {
-  color: #858585;
-}
-.cid-v1VG09rKYo .item-title {
-  color: #191c25;
-}
-.cid-v1VG09rKYo .item-text {
-  color: #191c25;
 }
 .cid-v1VtgOtvaP .dropdown-item .mbr-iconfont {
   display: inline-block;
