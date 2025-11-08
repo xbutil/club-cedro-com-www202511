@@ -62,7 +62,7 @@
     "cssOptimize": true,
     "site_lang": "es",
     "favicon": false,
-    "mbrsiteDomain": "uw5vdh5ikx",
+    "mbrsiteDomain": "qoxzzo440t",
     "lazyLoad": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -80,7 +80,8 @@
         "meta_descr": "El club de voleibol más grande de Bogotá",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/banner-bandera-fibra-carbono-1920x1079.jpeg"
       },
       "components": [
         {
