@@ -2371,7 +2371,7 @@ a {
   content: "";
 }
 .cid-v1VX1CjIOD .modal-content {
-  background: #ffffff;
+  background: #1174b2;
   position: relative;
   display: flex;
   -ms-flex-direction: column;
@@ -2430,7 +2430,7 @@ a {
   opacity: .75;
 }
 .cid-v1VX1CjIOD .modal-header .close svg {
-  fill: #353535;
+  fill: #e2e6e7;
 }
 .cid-v1VX1CjIOD .modal-header .close:hover {
   opacity: 1;
@@ -2443,6 +2443,7 @@ a {
   width: 100%;
   margin: 0;
   text-align: center;
+  color: #e2e6e7;
 }
 .cid-v1VX1CjIOD .modal-body {
   position: relative;
