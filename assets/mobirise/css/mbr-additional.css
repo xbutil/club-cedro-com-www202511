@@ -3,10 +3,10 @@ body {
 }
 .display-1 {
   font-family: 'DM Sans', sans-serif;
-  font-size: 10rem;
+  font-size: 7rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 16rem;
+  font-size: 11.2rem;
 }
 .display-2 {
   font-family: 'DM Sans', sans-serif;
@@ -46,12 +46,12 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 6rem;
+    font-size: 4.2rem;
   }
 }
 @media (max-width: 767px) {
   .display-1 {
-    font-size: 2.5rem !important;
+    font-size: 1.75rem !important;
   }
 }
 @media (max-width: 992px) {
@@ -66,9 +66,9 @@ body {
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 8rem;
-    font-size: calc( 4.1499999999999995rem + (10 - 4.1499999999999995) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (4.1499999999999995rem + (10 - 4.1499999999999995) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 5.6rem;
+    font-size: calc( 3.0999999999999996rem + (7 - 3.0999999999999996) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (3.0999999999999996rem + (7 - 3.0999999999999996) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 4rem;
@@ -1485,7 +1485,7 @@ a {
 .cid-v1VLSCrtGV {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #f7f4f2;
+  background-image: url("../../../assets/images/mbr-1920x1280.webp");
 }
 @media (min-width: 992px) {
   .cid-v1VLSCrtGV .display-1 {
@@ -1516,7 +1516,7 @@ a {
 .cid-v1VGom06IZ {
   padding-top: 2rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/bg-club-cedro-min-1000x1228.webp");
 }
 .cid-v1VGom06IZ .mbr-fallback-image.disabled {
   display: none;
@@ -1596,10 +1596,10 @@ a {
   margin-bottom: 0;
 }
 .cid-v1VGom06IZ .embla__slide .slide-content .card_1 {
-  background-color: #1174b2;
+  background-color: #283c88;
 }
 .cid-v1VGom06IZ .embla__slide .slide-content .card_2 {
-  background-color: #f7f4f2;
+  background-color: #2072c1;
 }
 .cid-v1VGom06IZ .embla__button--next,
 .cid-v1VGom06IZ .embla__button--prev {
@@ -1909,7 +1909,7 @@ a {
   content: "";
 }
 .cid-v1VX1CjIOD .modal-content {
-  background: #1174b2;
+  background: #283c88;
   position: relative;
   display: flex;
   -ms-flex-direction: column;
@@ -2249,7 +2249,7 @@ a {
 .cid-v1Wrcc4N3U .mbr-text,
 .cid-v1Wrcc4N3U .mbr-section-btn {
   color: #f7f4f2;
-  text-align: justify;
+  text-align: left;
 }
 .cid-v1Wrcc4N3U H4 {
   color: #ffcc00;
@@ -2259,7 +2259,11 @@ a {
   padding-top: 5rem;
   padding-bottom: 5rem;
   overflow: hidden;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/sede-colegio-virrey-solis-700x394.webp");
+}
+.cid-v1VGHj8ZGi .mbr-overlay {
+  background: #000000;
+  opacity: 0.3;
 }
 .cid-v1VGHj8ZGi .title-wrapper .mbr-section-title {
   margin: 55px;
