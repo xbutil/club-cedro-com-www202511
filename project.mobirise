@@ -77,15 +77,15 @@
     "cssOptimize": true,
     "site_lang": "es",
     "favicon": false,
-    "mbrsiteDomain": "dads5yoyqb",
+    "mbrsiteDomain": "ft22iy8e0g",
     "lazyLoad": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
-    "pwa-switcher": false
+    "pwa-switcher": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
