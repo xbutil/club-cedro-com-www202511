@@ -962,7 +962,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Club Cedro</b> <i>– \"El club de voleibol más grande de Bogotá\"</i>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Inscríbete</a>  <a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Clase de cortesía</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://clubcedro.klubes.dev.digital01.com/login\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Inscríbete</a>  <a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://clubcedro.klubes.dev.digital01.com/login\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Clase de cortesía</a>",
                 "overlayOpacity": "0.1"
               },
               {
