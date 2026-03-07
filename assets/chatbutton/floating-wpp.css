@@ -1,3 +1,23 @@
+#chatbutton-wa.left {
+    left: 15px;
+    right: auto;
+}
+
+#chatbutton-wa.left .floating-wpp-popup {
+    left: 0;
+    right: auto;
+}
+
+#chatbutton-wa.right {
+    left: auto;
+    right: 15px;
+}
+
+#chatbutton-wa.right .floating-wpp-popup {
+    left: auto;
+    right: 0;
+}
+
 .floating-wpp {
     position: fixed;
     bottom: 15px;
@@ -121,6 +141,12 @@
     visibility: visible !important;
     animation-delay: 0s;
     animation-duration: 0s;
+}
+
+.floating-wpp .floating-wpp-input-message textarea:hover,
+.floating-wpp .floating-wpp-input-message textarea:focus {
+    outline: none !important;
+    border: 1px solid #5c5c5c;
 }
 
 .floating-wpp .floating-wpp-btn-send {
